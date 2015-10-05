@@ -3,7 +3,6 @@
      H. Conrad Cunningham, Professor
      Computer and Information Science
      University of Mississippi
-SUCK IT! YOU SUCK! HAHAHAHHAHAHA I HATE YOU AND YOUR STUPID LANGUAGES!!!!
 Developed for CSci 658, Software Language Engineering, Fall 2013
 
 1234567890123456789012345678901234567890123456789012345678901234567890
