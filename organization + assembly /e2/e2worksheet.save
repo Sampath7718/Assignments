@@ -1,0 +1,181 @@
+E2 Worksheet    Due Thursday, September 20, 2012 
+
+Name Eli Allen
+
+
+1. This directory contains code for a very simple, but broken program
+called e2. A makefile is included, so you can build the code by typing
+"make".
+
+Before we start, take a look at e2.c using more or nano.
+
+e2 is meant to conduct a simple operation on a short array, but when we
+run it, we get the following:
+
+./e2
+Segmentation fault
+
+This program "crashes". The message that you received indicates that the
+program was shut down by the operating system for trying to access memory
+that doesn't belong to the program.
+
+
+
+
+2. We could try to find the bug by putting print statements in our
+program, but that can be time consuming, especially with larger programs,
+and in cases where we don't know where the problem lies. Notice that
+unlike Java, we've been given no indication of where the crash even
+occurred.
+
+Happily, we can use the debugger to help find the problem. First, we must
+compile the program with the -g flag. If you look in the makefile, you'll
+see that this is already being done using the GCCFLAGS variable, which is
+then given to the gcc command.
+
+A handout that lists the various commands available from inside gdb was
+distributed in class, and is available on Blackboard. Of particular
+interest to us are the following:
+
+run                 runs the program
+
+list  [linenumber]  list the source code
+(or li for short)    
+
+break linenumber    set a breakpoint at the specified line in the source
+                    code.
+
+print expr          print the value of the expression
+
+info locals         print the values of all local variables
+
+continue            resume execution (probably after a breakpoint)
+(or c for short)
+
+backtrace [n]       print the program stack, or n frames of it
+(or bt for short)
+
+quit                quit the debugger
+
+
+
+So, we run the debugger with our program:
+
+gdb e2
+
+After some blather about GNU, and free software, you'll see a prompt:
+
+(gdb)
+
+To run our program, we type "run" followed by any command line arguments.
+(In this example, there are no command line arguments):
+
+(gdb) run
+Starting program: /home/csci223/e2/e2 
+
+Program received signal SIGSEGV, Segmentation fault.
+0x0000000000400500 in main (argc=1, argv=0x7fff02b9d438) at e2.c:15
+15	      printf("%d ", foo[i]);
+
+
+(This is hugely useful. Using the debugger, we get back some of the
+friendly behavior we are accustomed to from Java.)
+
+
+3. Looking carefully at the result, we can see that the problem occurred
+on line 15 of e2.c, and this line accesses an array called "foo" with i as
+an index. Let's  print the value of i:
+
+(gdb) print i
+
+Please fill in the result printed: 32801
+
+
+3b.  Fill in the value of n: 32794
+
+These results should be surprising. How could i be that large when the for
+loop tests its value? You may also see that n changed, too.  Crazy.
+
+
+4. We should trace the program execution. First, let's look at the code:
+
+(gdb) li        (short for "list")
+10	
+11	    for(i=1; i<=n; i++){
+12	    
+13	      foo[i]+=foo[i-1];
+14	      
+15	      printf("%d ", foo[i]);
+16	
+17	    }
+18	    
+19	    
+
+
+
+Let's set a "breakpoint" at line 15:
+
+
+(gdb) break 15
+Breakpoint 1 at 0x4004fb: file e2.c, line 15.
+
+
+Now, let's start the program over again:
+
+(gdb) run
+The program being debugged has been started already.
+Start it from the beginning? (y or n) y
+Starting program: /home/csci223/e2/e2 
+
+Breakpoint 1, main (argc=1, argv=0x7fffda97d218) at e2.c:15
+15	      printf("%d ", foo[i]);
+
+
+Okay, so execution has now paused at line 15, which is about to be
+executed. Let's use the info command to print out all the local variables:
+
+info locals
+
+Please fill in the value of i: 1
+
+
+
+5. So far so good. We know that line 15 is in a loop, so if we continue
+execution we'll come back around again. Let's keep doing that, examining
+the value of i, until i gets a funny  value. So, type 
+
+continue
+
+Please fill in the value of i: 2
+
+
+6. Okay, let's cut to the chase.  Keep using continue and print, (or info
+locals) until you see i get a crazy value. (try the up arrow for a handy
+shortcut)
+
+Please fill in the first crazy value of i: 32801
+
+Please fill in the last non-crazy value of i: 6
+
+
+
+7. Please fill in the number of elements in the array foo: 5
+
+8. Please fill in the largest valid index for the array foo: 4
+
+
+9. So, you should be able to see the general cause of the bug. An out of
+bounds array access. What's shocking is that when we wrote data past the
+end of the array, it interfered with i.  We'll talk about this later in
+the course, but you can guess that the array foo and the other local
+variables are stored near each other in memory. There's no protection
+against a bad array index, so the program begins behaving strangely. 
+
+In the space below, please propose a simple fix for our program:
+change n to n=4
+
+10. Go ahead and submit this file with following command:
+
+~csci223/public/bin/submit e2 e2worksheet
+
+Did you put your name up top?

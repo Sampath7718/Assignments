@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CSCI 490 Final Project</title> 
+<link rel = "stylesheet" href="css/bootstrap.css"> <!-- bootstrap --> 
+<link rel = "stylesheet" href="css/style.css"> <!-- custom css  -->
+
+</head> 
+
+<body>
+<div class="page-header"><!-- custom css -->
+	CSCI 490 Final - Eli Allen
+</div>
+
+<div class="container">
+<div class="picture"> <!-- div to wrap the image so the zoom plugin will work -->
+<span class='zoom' id='zoomPhone'>
+<img onhover="change();" id="image" height='300' src ="gray.png"> <!-- call the change() jquery function to change the image source when the select box changes --> 
+<p1>Hover</p1>
+</span> 
+</div>
+<div class="order-form"><!-- custom css -->
+<form href="#" action="#" method="POST" id="InForm" name="InForm" onSubmit="validateAll(this)"><!-- validate all input fields on submit -->
+	<h2> Order a Phone</h2>
+	<hr>
+	
+	<select id="Phone" name="Phone" onchange="logSelected(this)" required><!-- select menu for phone. must select an option before submit -->
+			<option id="" value="">Phone Model</option>
+			<option id="iPhone 5" value="0">iPhone 5</option>
+			<option id="iPhone 6" value="1">iPhone 6</option>
+			<option id="iPhone 6 Plus" value="2">iPhone 6 Plus</option>
+	</select>
+	
+	<select id="Color" name="Color" onchange="logSelected(this)" required>
+			<option id="" value = "">Color</option>
+			<option id="Space Gray" value = "0">Space Gray</option>
+			<option id="Silver" value = "1">Silver</option>
+			<option id="Gold" value = "2" >Gold</option>
+	</select>
+
+	
+	<h4>Shipping</h4>
+	<hr>
+	<br>
+	<input  type="Radio" id="r1" name="shipping" onchange = "logSelected(this)" value="Overnight" required> Overnight ($7.99)
+	<input type="Radio" id="r2" name="shipping" onchange = "logSelected(this)" value="2 day" required> 2 day ($2.99)
+	<input type="Radio" id="r3" name="shipping" onchange = "logSelected(this)" value="5 day" required> 5 day (free)<br>
+	
+	 <br><br>
+	 <button type="submit" class="btn btn-default">Submit</button><!-- submit button using bootstrap css -->
+</form>
+<hr>
+<br>
+<p id="output"> </p>
+<hr>
+<script src="js/helper.js"></script>
+<p></p>
+<script src="js/ajax.js"></script>
+</div>
+</div>
+
+<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+<script src="js/script.js"></script>
+
+<script src='http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script>
+<script src='zoom-master/jquery.zoom.js'></script>
+
+</body> 
+</html>

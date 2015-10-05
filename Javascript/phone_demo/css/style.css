@@ -1,0 +1,62 @@
+body{
+background-color: #fff;
+}
+
+.page-header{
+	text-align: center;
+	font-size: 250%; 
+
+}
+
+input{
+padding: 10px; 
+}
+
+
+
+.order-form{
+padding-top:15%;
+padding-left: 45%;
+text-align: left; 
+}
+
+.picture{
+padding-top:15%;
+float:left;
+width: 30%;
+}
+
+/* styles unrelated to zoom */
+		* { border:0; margin:0; padding:0; }
+		p1 { position:absolute; top:3px; right:28px; color:#555; font:bold 13px/1 sans-serif;}
+
+		/* these styles are for the demo, but are not required for the plugin */
+		.zoom {
+			display:inline-block;
+			position: relative;
+		}
+		
+		/* magnifying glass icon */
+		.zoom:after {
+			content:'';
+			display:block; 
+			width:33px; 
+			height:33px; 
+			position:absolute; 
+			top:0;
+			right:0;
+			background:url(http://turing.cs.olemiss.edu/~eeallen1/490final/zoom-master/icon.png);
+		}
+
+		.zoom img {
+			display: block;
+		}
+
+		.zoom img::selection { background-color: transparent; }
+h2{
+padding-bottom: 10px;
+}
+
+h4{
+padding-top: 15px; 
+}

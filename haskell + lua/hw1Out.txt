@@ -1,0 +1,72 @@
+Script started on Mon 15 Sep 2014 11:20:31 PM EDT
+]0;root@Gatekeeper: /csci/450root@Gatekeeper:/csci/450# ghci
+GHCi, version 7.6.3: http://www.haskell.org/ghc/  :? for help
+Loading package ghc-prim ... linking ... done.
+Loading package integer-gmp ... linking ... done.
+Loading package base ... linking ... done.
+=Prelude> :l hw1
+
+[1 of 1] Compiling Main             ( hw1.hs, interpreted )
+Ok, modules loaded: Main.
+=*Main> 
+
+test_xor
+
+xor True  True  = False
+Success:  True
+xor True  False = True
+Success:  True
+xor False True  = True
+Success:  True
+xor False False = False
+Success:  True
+
+ test mult
+
+mult 1 1 = 1
+mult 2 1 = 2
+mult 2 2 = 4
+mult 2 5 = 10
+mult 3 6 = 18
+
+ test_maxLval
+
+maxLval [1, 1, 2] = 2
+maxLval [1, 0, 0] = 1
+maxLval [-1, -2, 3] = 3
+maxLval [99, 3, 22] = 99
+
+ test_adjpairs
+
+adjpairs [1, 1, 2] = [(1,1),(1,2)]
+adjpairs [1, 2, 3, 4] = [(1,2),(2,3),(3,4)]
+adjpairs [ 1, 2] = [(1,2)]
+adjpairs [1] = []
+
+ test_mean
+
+mean [1, 1, 2] = 1
+mean [55, 1001] = 528
+mean [0, 0, 0, 20] = 5
+mean [7, 9, 11] = 9
+mean [0, 0, 1] = 0
+
+ test_natToBin
+
+natToBin 1 = [1]
+natToBin 2 = [1,0]
+natToBin 3 = [1,1]
+natToBin 6 = [1,1,0]
+natToBin 11 = [1,0,1,1]
+natToBin 120 = [1,1,1,1,0,0,1]
+natToBin 10000001 = [1,0,0,1,1,0,0,0,1,0,0,1,0,1,1,0,1,0,0,0,0,0,0,1]
+
+ e[K:quit
+
+Leaving GHCi.
+]0;root@Gatekeeper: /csci/450root@Gatekeeper:/csci/450# eixt
+eixt: command not found
+]0;root@Gatekeeper: /csci/450root@Gatekeeper:/csci/450# exit
+exit
+
+Script done on Mon 15 Sep 2014 11:21:57 PM EDT

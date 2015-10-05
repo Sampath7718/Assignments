@@ -1,0 +1,213 @@
+Welcome to e2, a simple cache. Valid commands are:
+   r  address
+   w  value address
+   d  slotnumber
+   q
+Where address, slotnnumber and value are all integers
+created cache with 4 slots with blocks of length 512
+
+Enter command:w 42 0
+Wrote 42 to address 0
+Enter command:r 0
+The value at address 0 is 42
+Enter command:w 42 1
+Wrote 42 to address 1
+Enter command:r 1
+The value at address 1 is 42
+Enter command:r 0
+The value at address 0 is 42
+Enter command:w 43 16
+Wrote 43 to address 16
+Enter command:r 16
+The value at address 16 is 43
+Enter command:w 56 511
+Wrote 56 to address 511
+Enter command:r 511
+The value at address 511 is 56
+Enter command:w 67 512
+Wrote 67 to address 512
+Enter command:r 512
+The value at address 512 is 67
+Enter command:w 68 513
+Wrote 68 to address 513
+Enter command:r 513
+The value at address 513 is 68
+Enter command:r 512
+The value at address 512 is 67
+Enter command:w 128 1023
+Wrote 128 to address 1023
+Enter command:w 130 1024
+Wrote 130 to address 1024
+Enter command:r 1023
+The value at address 1023 is 128
+Enter command:r 1024
+The value at address 1024 is 130
+Enter command:w 12 1535
+Wrote 12 to address 1535
+Enter command:w 32 1536
+Wrote 32 to address 1536
+Enter command:r 1535
+The value at address 1535 is 12
+Enter command:r 1536
+The value at address 1536 is 32
+Enter command:w 240 2047
+Wrote 240 to address 2047
+Enter command:r 2047
+The value at address 2047 is 240
+Enter command:d 0
+Block in slot 0:
+  dirty = 1
+  blockNumber=0
+  length = 512
+  data values are:
+
+  Offset   0:  42  42   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset  16:  43   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset  32:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset  48:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset  64:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset  80:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset  96:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 112:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 128:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 144:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 160:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 176:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 192:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 208:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 224:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 240:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 256:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 272:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 288:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 304:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 320:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 336:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 352:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 368:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 384:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 400:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 416:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 432:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 448:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 464:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 480:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 496:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  56
+Enter command:d 1
+Block in slot 1:
+  dirty = 1
+  blockNumber=1
+  length = 512
+  data values are:
+
+  Offset   0:  67  68   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset  16:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset  32:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset  48:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset  64:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset  80:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset  96:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 112:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 128:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 144:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 160:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 176:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 192:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 208:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 224:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 240:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 256:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 272:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 288:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 304:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 320:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 336:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 352:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 368:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 384:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 400:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 416:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 432:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 448:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 464:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 480:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 496:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 128
+Enter command:d 2
+Block in slot 2:
+  dirty = 1
+  blockNumber=2
+  length = 512
+  data values are:
+
+  Offset   0: 130   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset  16:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset  32:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset  48:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset  64:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset  80:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset  96:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 112:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 128:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 144:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 160:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 176:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 192:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 208:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 224:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 240:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 256:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 272:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 288:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 304:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 320:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 336:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 352:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 368:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 384:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 400:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 416:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 432:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 448:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 464:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 480:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 496:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  12
+Enter command:d 3
+Block in slot 3:
+  dirty = 1
+  blockNumber=3
+  length = 512
+  data values are:
+
+  Offset   0:  32   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset  16:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset  32:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset  48:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset  64:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset  80:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset  96:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 112:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 128:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 144:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 160:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 176:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 192:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 208:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 224:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 240:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 256:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 272:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 288:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 304:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 320:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 336:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 352:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 368:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 384:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 400:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 416:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 432:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 448:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 464:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 480:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  Offset 496:   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 240
+Enter command:q Thanks for playing.

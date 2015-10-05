@@ -1,0 +1,364 @@
+3DS DS IOS PC PS3 PS4 PSP VITA WII U XBOX 360 XBOX ONE MORE SYSTEMS Log In Sign Up
+GameFAQs
+
+ANSWERS
+BOARDS
+CONTRIBUTE
+FEATURES
+USERS
+WHAT’S NEW
+3DSRole-PlayingConsole-style RPG
+Pokemon Omega Ruby
+Home
+FAQs
+Cheats
+Reviews
+Images
+Answers
+Board
+FAQ/Walkthrough by KeyBlade999
+Version v1.30, Last Updated 2014-12-06
+Would you recommend this FAQ? Yes No
+Page 1 of 46Next Page Last Page 
+Table of Contents
+
+Donations
+Introduction
+Basics of the Game
+Controls
+Save Data
+Some More Basic Info
+Changes Since Ruby/Sapphire
+Important Terms & Definitions
+Compatibility with Other Games
+Version Exclusives
+Pokémon Capture
+Status Ailments
+Weather/Field Effects
+Entry Hazards
+Competitive Pokémon Strategy
+Special Move Mechanics
+The "Minor" Details - EVs, IVs, and Nature
+Misc. Game Mechanics
+Walkthrough
+Notes (READ!)
+Stone Badge
+Knuckle Badge
+Dynamo Badge
+Heat Badge
+Balance Badge
+Feather Badge
+Mind Badge
+Rain Badge
+Challenging the Pokémon League
+Post-Credits: The Delta Episode
+Post-Credits: The Battle Resort
+Sidequests
+Can't See Your Desired Sidequest in the Table of Contents? Look Here!
+Pokémon-Amie
+Super Training
+Pokémon Breeding
+The Trick House
+Pokémon Contest Spectaculars
+Soarin' in Hoenn
+National Pokédex-Enabled Pokémon
+Legendary Pokémon Quests!
+Obtain Both Bicycles
+Elite Four Rematches
+Wally Rematches
+Trainer Card Color Changes
+Time Travel Award
+Pokédex Completion Rewards
+Mauville Food Court
+The Battle Institute
+The Battle Maison
+Super-Secret Bases
+Pokémon Global Link Medals
+O-Power Listings
+Move Tutor Listings
+Mauville: Relic Song & Secret Sword
+Mauville: Ultimate Starter Moves
+Mauville: Pledge Moves
+Sootopolis: Draco Meteor
+Meteor Falls: Dragon Ascent
+Battle Resort Move Tutors
+Items Listings
+Medicinal Items
+EV-Changing Items
+Other Stat-Boosting Items
+Hold Items
+Berries (General)
+Berries (Growth & Contests)
+Battle Items
+Pokéballs
+Pokémon Fossils
+Evolution Items
+Mega Stones
+Primal Orbs
+Miscellaneous
+Stuff to Sell
+TMs & HMs
+Key Items
+Super Training Bags
+Shop Details
+No Badges - Oldale Town
+No Badges - Petalburg City
+No Badges - Rustboro City
+2 Badges - Slateport City
+2 Badges - Mauville City
+2 Badges - Verdanturf Town
+3 Badges - Fallarbor Town
+3 Badges - Lavaridge Town
+5 Badges - Fortree City
+6 Badges - Lilycove City
+6 Badges - Mossdeep City
+7 Badges - Sootopolis City
+8 Badges - Ever Grande City
+8 Badges - Pokémon League
+Battle Resort
+Pokémon Global Link
+Mini-Pokédex
+Pokémon Stats (General)
+Pokémon Stats (Mega Evolutions)
+Pokémon Stats (Primal Reversions)
+Pokémon Stats (Breeding)
+Pokémon Stats (Misc. #1)
+Pokémon Stats (Misc. #2)
+Pokémon Stats (Stat Comparisons)
+Pokémon Evolutions
+Pokémon Abilities
+Move List - Battle Details
+Move List - Contest Details
+Credits
+Version History
+Legalities
+Did you enjoy this FAQ and find it useful? If so, please consider clicking the blue "Recommendation" link above here so you can let others know that this is one of GameFAQs's best FAQs! Thank you!
+This guide is available alongside a number maps, images, and videos to further enhance your guide-using and gameplay experience! For a small charge, you will be able to utilize these from this URL: http://www.gamerguides.com/pokemon-oras/information. Of course, if you can't pay for the Gamer Guides experience, or simply do not wish to, you are welcome to use the free version here!
+                    ____       _
+                   |  _ \ ___ | | _____ _ __ ___   ___  _ __
+                   | |_) / _ \| |/ / _ \ '_ ` _ \ / _ \| '_ \
+                   |  __/ (_) |   <  __/ | | | | | (_) | | | |
+                   |_|   \___/|_|\_\___|_| |_| |_|\___/|_| |_|
+  ____                                ____        _                              _
+ / __ \ _ __ ___   ___  __ _  __ _   |  _ \ _   _| |__  _   _     __ _ _ __   __| |
+| |  | | '_ ` _ \ / _ \/ _` |/ _` |  | |_) | | | |  _ \| | | |   / _` | '_ \ / _` |
+| |__| | | | | | |  __/ (_| | (_| |  |  _ /| |_| | |_) | |_| |  | (_| | | | | (_| |
+ \____/|_| |_| |_|\___|\__, |\__,_|  |_| \_\\__,_|____/ \__, |   \__,_|_| |_|\__,_|
+                       |___/                            |___/
+         _    _       _               ___                    _     _
+        / \  | |____ | |__   __ _    / __|  __ _ ____  ____ | |__ (_)_ ______
+       / ^ \ | |  _ \| '_ \ / _` |   \__ \ / _` |  _ \|  _ \| '_ \| | '__/ _ \
+      / ___ \| | |_) | | | | (_| |   ___) | (_| | |_) | |_) | | | | | | |  __/
+     /_/   \_\_|  __/|_| |_|\__,_|  |____/ \__,_|  __/|  __/|_| |_|_|_|  \___|
+               |_|                              |_|   |_|
+
+Games: Pokémon Omega Ruby & Pokémon Alpha Sapphire
+Console: Nintendo 3DS
+File Type: Formatted FAQ/Walkthrough
+Author: KeyBlade999 (a.k.a. Daniel Chaviers)
+Version: v1.30
+Time of Update: 2:09 AM 12/6/2014
+File Size: 2,586 KB
+
+Donations
+While I do write all of my guides for free, it does take a lot of time and effort to put them together. If you're feeling generous and want to show your appreciation, I am gladly accepting donations. I don't know exactly what the donations will be used for, but just know that you would definitely be helping me make more quality FAQs! Even the smallest donation amounts are appreciated, and they are a great way to say how much you appreciate the work I do. If you do decide you'd like to donate, please send the donations through PayPal at the e-mail address listed below. Thank you so very much for at least considering this!!
+
+Donation/Contact E-Mail
+keyblade999.faqs@gmail.com
+
+
+
+Introduction
+Hello, and welcome to my first 3DS FAQ in a good, long while (although I kept working on it and refining it regularly throughout the summer and fall). This FAQ covers the latest release in the mainstream Pokémon series, Pokémon Omega Ruby and Pokémon Alpha Sapphire.
+
+Pokémon OR/AS are remakes of the 2002/2003 releases Pokémon Ruby and Pokémon Sapphire, released around 11 years ago for the GameBoy Advance, opening Generation III for the series as well. They are two particular games that I have a lot of emotion tied to. For one thing, Pokémon Sapphire was the first Pokémon game I ever owned. I played through it so many times back then as a mere elementary schooler. (For reference, I am now 18 and a senior in high school - I've been playing Pokémon for about ten years now.) It was even the first time I ended up completing the Pokédex, a feat I never recompleted without the aid of cheat devices until much later, when Pokémon X/Y was released. It was quite a time, too, especially when I expanded onto Pokémon XD and to - my favorite series (what, surprised? =P) - Pokémon Mystery Dungeon, the first game that ever truly made me bawl out from the emotional qualities of the storyline. I have a lot of attachment to the Pokémon series...
+
+... and it all began here, with Pokémon Ruby and Sapphire some ten years ago. I have evolved, as you could say, from a child, ignorant of games beyond Final Fantasy and Mario, to one who has played (and FAQed!) all of the mainstream Pokémon games, and many side ones. Because of my playing of Pokémon Green (Pocket Monsters Midori), I was more mentally capable to expand into the Japan-only games I now write FAQs for on the GameBoy and NES and other consoles with a relative regularity. I was able to expand my mind even further beyond the "babyish" - trust me, I say that VERY sarcastically - Pokémon games to a variety of JRPGs like Shin Megami Tensei, the Tales of... games, and Romancing SaGa...
+
+... and it all began here. I think you get the picture: I have a lot of attachment and thanks to give to the Pokémon series, all thanks to Ruby and Sapphire. Now, just 13 months after the release of Pokémon X/Y, we finally have another game to replay in stunning 3D! Sure, it may not be the best (HeartGold and SoulSilver still take that title), and I'm more than a bit skeptical of playing this after the blunder X/Y provided, but I am nonetheless more eager than ever before to write an FAQ for a game. With this FAQ, I hope to finally come out of my shell and pull all of the stops - not simply to navigate you through the game if you're a casual player, but to also be able to explain the more in-depth stuff like EVs and IVs and all sorts of competition-essential info if you plan on getting into a competitive state to provide that rarely-given "step up" that divides the amateurs from the pros. The best of both worlds, so to speak - no one here will be utilizing everything altogether, but everything here will be something someone looks at once!
+
+All of my mindless babbling aside, I hope you enjoy my FAQ as you refamiliarize yourself with Hoenn!
+
+
+
+
+Basics of the Game
+Controls
+
+Button	Resultant Effects
+D-Pad/Circle Pad	Move your character. Move the Circle Pad slightly to sneak around.
+Move cursors.
+A Button	Confirm choices.
+Speak with people.
+Investigate the tile ahead.
+B Button	Decline choices.
+Exit menus.
+Hold and use the D-Pad/Circle Pad to run. Also speeds up Latios/Latias when Soaring.
+Press during Pokémon evolution to cancel said evolution.
+Hold when using the Acro Bike to pop a wheelie. Hold while on it and stationary to hop, and use B and the Circle Pad to quick-jump over certain gaps.
+X Button	Open the menu.
+Ascend while Soaring on Latios/Latias.
+Y Button	Open a menu to choose a registered Key Item for quick use.
+Decend while Soaring on Latios/Latias.
+L Button
+Used to quickly go through item lists.
+Hold and tap a move in the move selection menu during battle to see its data.
+Do a trick when Soaring on Latios/Latias.
+R Button
+Used to quickly go through item lists.
+Do a trick when Soaring on Latios/Latias.
+Start Button	Open a menu.
+Select Button	N/A
+Note that some functions can be delegated to the Touch Screen or gyro sensors as well.
+
+
+Save Data
+
+This section mostly concerns the use of the save file. As has been tradition in the Pokémon series - even to this day, for unconceivable reasons (especially when much older games allowed hundreds) - Pokémon OR/AS only have one save file per cartridge or eShop download. That file is saved whenever you choose to in the field, and only when you choose to (barring the end credits and a few other instances). Thus, first and foremost, the main thing is to save often: usually, every town suffices for non-post-game stuff. After all, you don't want to get stuck in a Gym battle as your 3DS/2DS hits a very low battery, and possibly dies, and you haven't saved, right...?
+
+The main reason for this section, really, is for those buying used copies of the game, as I get a lot of questions regarding this some months after the game's release. In older Pokémon games - Ruby, Sapphire, and the other GBA games going back - it would be a simple task to start a new game and save: simply save on the new file! However, some file protection has been made so that it doesn't happen as often by little kids playing games or people screwing with you or the like; Pokémon Omega Ruby and Alpha Sapphire are included in this.
+
+To delete the current file (so that you may start and save a new game), hold Up, B, and X as the game starts up from the Home Menu. Directions will then appear on-screen.
+
+
+Some More Basic Info
+
+I know I'm being a jerk by putting it like this, but there is a manual with your game. When I intended to put "basic" info, I mostly intended "basic Pokémon strategy", with some other useful info. So, yeah, look up the manual from the Home Menu if you need to learn how to use the menus and stuff like that. Granted, I will go more in-depth throughout the course of this section on particular things that are not fully elaborated on by the game, such as ailments and strategy, however!
+
+
+Changes Since Ruby/Sapphire
+
+Pokémon Omega Ruby and Alpha Sapphire, as would could probably guess, are the remakes of the GBA games Pokémon Ruby and Sapphire Versions, released some eleven or twelve years ago in 2002-2003, depending on whether you live in Japan or not. (The latter, since most of you likely don't.) Obviously, a number of changes have been made to the Pokémon formula since then. Since some of these may not be obvious to those having not played Pokémon since (or even as recent as Black/White), I feel the need to iterate some. Here ya go!
+
+(If you've played Pokémon X/Y completely, most of these are already known to you, I'm sure, and you shouldn't need this for anything.)
+
+Mirage Spots (new to the series as of OR/AS): These are places you can reach up in the skies by Soaring on Latias or Latios. The exact details aren't known quite yet, but, in essence, you can be able to catch legendary Pokémon in these areas: so many that you'll be able to complete your legendary collection -- minus a few that aren't needed for the Pokédex diplomas, which means no event legendaries -- with just Pokémon X, Y, Omega Ruby, and Alpha Sapphire, and really just one of those if you can trade well!
+Soaring (new to the series as of OR/AS): This is a new method of travel in which the player rides on the back of Latias or Latios. It mimicks the use of the Bicycle in X/Y, since the gridular system of movement was removed (though you can use it with the D-Pad and the like: you can just also circumvent it if desired), but, y'know, it's cooler and lets you reach those aforementioned Mirage Places.
+Horde Trainer Battles (new to the series as of OR/AS): This is an expansion of the Horde Battle concept introduced in Pokémon X/Y. Like those, these battles are you versus five Pokémon, this time each Pokémon being owned by a Trainer. For the most part, the strategies and tactics remain the same: use widespreading moves, etc. The main significance of this addition is that it was expanded onto Trainers, that's about it. Still pretty cool.
+New Pokémon!: With the release of Pokémon Ruby/Sapphire, there were 386 Pokémon in the National Pokédex. In OR/AS, there are now 721 (719 of which were available by the release of this game), a whopping 335 (87%) more!
+New Formes!: Now it's not only Deoxys who can have multiple different Formes! Going as far back as Diamond/Pearl (2007), Pokémon could have a number of different Formes that change their abilities and prowess. Some are merely superficial and used for differentiation - such as how female Pikachus have heart-shaped tails - and some are more critical - like the Deoxys or Rotom Formes. Getting up to speed on these may be helpful in deciding what you do when someone decides to Wonder Trade you one of those Pokémon, Rotom in particular. =P See this section for some of the details.
+A New Type: Fairy!: Every now and then, Game Freak decides to add a new type to the Pokémon formula to create some variety. With Gold/Silver around 1999 or so, they added Dark and Steel to the then-15 types to make 17. In X/Y in 2013, they added one more, Fairy. This type is weak to Poison and Steel, and is advantageous over Dark and Dragon. There are a number of new Fairy Pokémon - such as Florges, Sylveon, and Xerneas - though a few old favorites also became Fairy - such as Wigglytuff, Gardevoir, and Azumarill.
+Steel is Nerfed!: The type Steel also lost its resistances to Dark and Ghost with X/Y's release in 2013, lessening the defensive overpoweredness of the Steel type. This in particular affected the popular Metagross, who is now weak to Dark and Ghost.
+New Abilities!: Going as far back as the release of Pokémon Black/White (2011), Pokémon could have an additional "Hidden" Ability in most cases. In some cases, such as the Regi Pokémon in Hoenn, these are still unreleased but programmed in ... for some reason, don't ask me. In any case, this Hidden Ability often can only be brought out through particular Pokémon breeding techniques, but the benefits can be great. Speed Boost Blaziken, for example, is much better than Blaze Blaziken.
+New Items!: A number of new items have been added to the Pokémon formula since Ruby and Sapphire, particularly those added in Diamond/Pearl which were very relevant to the competitive Pokémon metagame (like Choice items and Focus Sashes). The Items Listings section has it all.
+TMs Have Changed!: They now can be used an infinite number of times! There's also 100 TMs, not 50!
+Mega Evolution!: The ability to Mega Evolve a Pokémon is as recent as the release of Pokémon X/Y (2013). It allows you to evolve a Pokémon mid-battle for only that battle; it must hold a species-specific item to Mega Evolve as well, and you must have the Mega Bangle (in this game). The advantages to Mega Evolution always include stat boosts, and sometimes even changes types or abilities. This in turn can dramatically alter your battle strategy. Mega Charizard X, Mega Charizard Y, and plain ol' Charizard, for example, all require VERY different tactics to use successfully. =D There are nearly 50 Mega Evolutions, too, and about double those available in Pokémon X/Y.
+Primal Reversions!: A special kind of Mega Evolution, really, Omega Ruby and Alpha Sapphire are the first to allow Primal Reversions, which can only occur with two Pokémon, whose names I will not spoil ... at least in this section. Primal Reversions are counted as separate from Mega Evolutions, so you can have a Mega Pokémon in addition to a Primal Pokémon.
+New Battle Types!: In Pokémon Ruby/Sapphire, you could only do two types of battles: Single and Double Battles, as well as the four-person variant of Doubles known as Multi Battles. By the release of Black/White in 2011, we added two more types of battles: Triple Battles and Rotation Battles. Triple Battles are like Doubles, but now three Pokémon are active per side; Rotation is like Singles, but you can do an instant switch to one of your two other Pokémon on the field and also have them still move. These also created a number of new characteristics for moves, notably "Long Range". X/Y in 2013 also introduced Horde Battles, Sky Battles (Flying/floating Pokémon only), and Inverse Battles (reverse type resistances/weaknesses).
+Shiny Pokémon Rarity: A few of the lucky among you may have encountered a Shiny Pokémon on Pokémon R/S: it is a rare Pokémon who has a different-looking sprite. (For example, Shiny Treecko is cyan/red, and Shiny Torchic is largely gold, and Shiny Mudkip is pinkish.) These Pokémon are exceedingly rare, at least back then: the odds were 1 in 8,192. Now, they are 1 in 4,096 (doubled), and can be further increased through various methods. The change of rate was introduced as early as Pokémon X/Y.
+The Player Search System (PSS)!: The Player Search System, or PSS, is a more convenient method to the tedium of linking up and battling with other players. Wi-Fi interaction has been the standard since Diamond/Pearl (2007), but the PSS makes it convenient by gathering it all in one interface on the Touch Screen of the console that even allows you to, for example, access the GTS from anywhere, not just by going to certain buildings and the like. It's very convenient; check your manual for all of the neat functions!
+Super Training!: Competitive players will love this, and maybe even those of you beginning the game, too! Super Training is a convenient method of altering your EVs - Effort Value|EVs - EVs are like a "stat EXP." you can use to influence statistical growth! This kind of stuff is very critical to understand when desiring to compete against other people. Sure, Super Training is, in and of itself, not required to even touch for the main storyline, but at least it offers a number of nice rewards, like evolution stones! Check it out!
+Pokémon-Amie!: Pokémon-Amie is the third of the big interfacing changes made in X/Y: it allows interaction with your Pokémon. In over 99% of cases, this is purely for the fun of doing so: it's cute to be able to pet your Pokémon, isn't it? It creates a faux bonud between you the Trainer and your Pokémon, something that would be necessary in the actual environ presented by the anime and manga. While not at all necessary in this game - unless you want to evolve Eevee into Sylveon *winks* - it's nonetheless cute. I love it. =D
+Graphics & Sound!: Needless to say, the graphics in OR/AS are now 3D and sometimes compatible with the 3DS's 3D stereoscopy (though you don't get the 3D effects on the 2DS, as usual). Even if you do have a 2DS, the graphics are still MUCH better than R/S. =P Same for the sound system, too.
+The Internal Calendar: Every Pokémon game since Gold/Silver on the GBC have used an internal clock in some way to measure the time. This has had a number of side-effects; for example, in G/S it affected Pokémon encounter rates and evolution, but in R/S it could also affect the tides in Shoal Cave. There is an internal calendar and clock in OR/AS: before playing, it would be best to fiddle your 3DS/2DS such that the date and time matches the real time, because fiddling with it later can cause annoying consequences since Game Freak does not like that. At all. It will be useful in keeping up with day-specific and time-specific events by being able to reference them to your real-world time.
+Mechanical Changes: The power of some moves has been nerfed to slightly lower standards now, such as Ice Beam and its like moves, once 95 Power, are now 90 Power; similarly, the more advanced and less accurate moves of those types (such as Blizzard) are now 110, not 120, Power. There have been some slight alterations in Pokémon stats, and there are also nerfs in the power of critical hits such that they deal 33% extra damage, not double.
+The Video Game Championships!: The Video Game Championships, or VGCs, of Pokémon is a traditional world tourney held once a year since the release of Pokémon Diamond/Pearl in 2007. There are hundreds of thousands of competitively versed trainers vying for the title of World Champion and the prizes it endows on the bearer of the title, the biggest of which is bragging rights for a whole year! There are even regional competitions already set in stone for the OR/AS championships! (Check http://www.pokemon.com/ for details as they come out!) Much of the extraneous info in this FAQ/Walkthrough was even designed such that you would be able to be ready for the VGCs on some level: granted, some of it is definitely subjective, but nonetheless provides that nice step up to the competitive level from slaying the AI -- and it is a big step, trust me.
+Other Tournaments Online!: Don't want to travel a few hundred miles to a championship you don't feel you'll win? That's cool, we all understand that. There's also a number of tournaments Game Freak hosts through the Battle Spot on Pokémon OR/AS, so long as you have a good Wi-Fi broadband internet connection and a Trainer Club account (you can sign up for one at http://www.pokemon.com/, though you'll do the sign-ups for tourneys from the Pokémon Global Link, http://3ds.pokemon-gl.com). These tournaments can often be very fun and interesting; just before the release of OR/AS, for example, we had a tourney where you could only use Ghost types! (It was Halloween-themed. =P) While they rarely emulate the VGC environment, there are other Battle Spot options that let you compete against others, and even track your rankings in those on the PGL, so there are options there to at least get you ready.
+I think that covers all of the major ones. I think you all are caught up to speed if you haven't played a recent Pokémon game, then, huh? Okay, then, let's get rolling.
+
+
+Important Terms & Definitions
+
+Pokémon is itself a very technical game. While we will get deeper into these technicalities in other sections of this conglomerate of "basics" and in the various appendices, it would be first be most prudent to give you, the readers, a quick list of what will be referred to throughout the guide. Those familiar with the competitive scene of Pokémon need no real introduction to most of these terms, and most having played Pokémon in general will only need to give this a quick glance at times; however, everyone else should give this section at least a decent read-over, especially those of you who are new to Pokémon. There are several definitions here some of you may find surprising and in themselves immensely helpful to understanding Pokémon in general, and by far much more in-depth than what the game will likely ever yield unto you. >_>
+
+In any case, if you think something else should be added here, feel free to e-mail me.
+
+MAINSTREAM GAME NAME ABBREVIATIONS & REGIONS
+Generation	Games' Full Names	In-Game Regions	Consoles	Common Abbreviations
+Gen. I	Pokémon Red, Blue, Green, and Yellow Versions	Kanto	GameBoy	Pokémon R/B/G/Y
+Gen. II	Pokémon Gold, Silver, and Crystal Versions	Johto & Kanto	GameBoy Color	Pokémon G/S/C
+Gen. III	Pokémon Ruby, Sapphire, and Emerald Versions	Hoenn	GameBoy Advance	Pokémon R/S/E
+Pokémon FireRed and LeafGreen Versions	Kanto & Sevii Isles	GameBoy Advance	Pokémon FR/LG
+Gen. IV	Pokémon Diamond, Pearl, and Platinum Versions	Sinnoh	Nintendo DS	Pokémon D/P/Pt
+Pokémon HeartGold and SoulSilver Versions	Johto & Kanto	Nintendo DS	Pokémon HG/SS
+Gen. V	Pokémon Black and White Versions	Unova	Nintendo DS	Pokémon B/W -or- Pokémon B1/W1
+Pokémon Black and White Versions 2	Unova	Nintendo DS	Pokémon B/W 2 -or- Pokémon B2/W2
+Gen. VI	Pokémon X and Y	Kalos	Nintendo 3DS	Pokémon X/Y
+Pokémon Omega Ruby and Alpha Sapphire	Hoenn	Nintendo 3DS	Pokémon OR/AS*
+NOTE (*): Sometimes, you'll also see the uppercase Greek "omega" for "O" and lowercase Greek "alpha" for "A"
+#HKO: Indicates a KO (defeat) in # hits. For example, 1HKO (sometimes OHKO) implies a one-hit win.
+Ability: Every Pokémon has 1 to 3 Abilities it may have, although only one is active at any given time. They are normally set-in from the time of encounter or hatching, although you can use Ability Capsules to change the non-Hidden Abilities of a Pokémon so long as it has two such Abilities. An Ability is a trait that a Pokémon has that gives it some kind of advantage or disadvantage in battle: some allow for extra damage, some reduce damage, some allow avoidance of attacks... The list goes on. Pokémon may also have a Hidden Ability (sometimes "HA") that can be brought about only in certain situations, most often specialized breeding The EVs section has details on every Ability, and the Pokémon Breeding section can tell you how to breed Pokémon for their Hidden Abilities.
+Accuracy: The preset hit rate each move has for itself that determines how likely it is to hit. In general, this can be seen as a percentage: for example, Stone Edge has 80 Accuracy so it could be seen as having an 80% hit rate. A move with a 100% hit rate is generally always going to hit. However, this is only when you assume that your accuracy has not been changed by certain moves or your foe's evasion. Certain moves - usually status moves, but a niche few others - will ignore accuracy and evasion entirely, and always hit.
+Attack (Atk.): Attack is one of the stats a Pokémon can have. Attack will affect the damage dealt by certain moves: that is, physical moves. Physical moves are those that are designated as such by the game: you can use the Move List - Battle Details section to check whether a move is Physical, Special, or Status in Class. Physical moves will use the user's Attack and the target's Defense in most cases to calculate damage.
+Base Stat (sometimes "BS" or "base"): Base stats are used to indicate the general prowess of a Pokémon in a particular stat. Base stats can range from 1 to 255 in a given stat. For most people, a base value of 110+ indicates that the Pokémon is good in that stat, though it all relates back to the Trainer's own strategy. In any case, the higher a base stat, the better for the user.
+Base Stat Total (BST): The total of a Pokémon's base stats, used to communicate its general prowess. Depending on the Pokémon, however, its actual strategic value may be skewed because of certain high base stats. For example, Shuckle's base 230 in Defense and Sp. Def. really skews it BST up somewhat higher than its actual strategic value would indicate (almost no one really uses it).
+Blue Pentagon: The term "blue pentagon" in reference to Pokémon refers to the blue Pokémon found on some Pokémon's status screens. This blue pentagon indicates that this Pokémon was born on Pokémon X, Y, Omega Ruby, or Alpha Sapphire as of this writing. This, to the general player, is relative assurance that the Pokémon is not hacked, as hacking methods for Pokémon are MUCH more prevalent on prior games. That said, it does not mean the Pokémon is not hacked: methods for cheating in Pokémon are very much available even on modern entries, though the prevalence is little right now. Blue pentagon Pokémon are typically allowed into the various tourneys and the like on these games. Conversely to this definition, Pokémon without a blue pentagon are born on Pokémon Black/White 2 or earlier games, having been brought over by Pokémon Bank/Poké Transporter, and are usually not allowed in such tourneys or other official compeetition.
+Catch Rate: A hidden charateristic of all Pokémon that helps to determine how likely you are to catch it, ranging from 1 to 255 (where 255 is best for you). See the Pokémon Capture section for some more details.
+Class: Class is an attribute given to moves: it determines the move's own nature and what stats its damage is based on. There are three classes: Physical, Special, and Status. Physical moves usually are based on the user's Attack and the target's Defense; Special moves are usually based on the user's Sp. Atk. and the target's Sp. Def.; and Status moves use neither, but instead affect various other things.
+Contact: Contact is a characteristic of moves that will determine whether the user actually touches the target. This usually has no use. However, there are certain applications of it, such as contact attackers possibly being paralyzed by Pikachu's Static ability.
+Critical Hit (a.k.a. Critical or just Crit): An attack that does 33% more damage than normal. When an attack is critical, it will be openly declared as such by the game. Most moves have an initial critical-hit rate of 1/16 (6.25%), but this can be raised through various means.
+Defense (Def.): Defense is one of the stats a Pokémon can have. Defense will affect the damage dealt by certain moves: that is, physical moves. Physical moves are those that are designated as such by the game: you can use the Move List - Battle Details section to check whether a move is Physical, Special, or Status in Class. Physical moves will use the user's Attack and the target's Defense in most cases to calculate damage.
+Double Battle: A battle between two people in which each has two Pokémon out at the same time. Under typical online battle rules and certain other rulesets, you must use four Pokémon total per side. This isn't the case for most in-game battles, though.
+Effort Value (EV): Effort Values, or EVs, are much like EXP. for your stats: they can help determine stat growth in easy-to-understand manners. Each Pokémon will give off a predetermined, constant set of EVs to the wielder to one or more of its six stats when you defeat it in battle. It would be best to see the EVs - Effort Values section for the full thing.
+Entry Hazards: Entry hazards, or just "hazards", are moves that do not intend to inflict damage on the Pokémon immediately seen on the field, but those that come after it. Stealth Rocks and Spikes, for example, will deal damage to the Pokémon owned by the foe that switch in. This has very serious implications at times. See Entry Hazards for more.
+Event Pokémon: Event Pokémon are those only given out by Nintendo, Game Freak, or certain other third parties (in particular, GameStop and its subsidaries lately) in real life. Common Pokémon for this include special Shiny Pokémon (i.e. the Shiny Gengar given out in October 2014), those with otherwise illegal moves (i.e. the Pikachu that can Surf and Fly), those that just have special Formes (e.g. the Pokéball-Pattern and Fancy Pattern Vivillons from X/Y), Mew, Celebi, Jirachi, Deoxys, Shaymin, Darkrai, Arceus, Victini, Meloetta, Genesect, Diancie, Hoopa, and Volcanion: in general, these Pokémon cannot be obtained in the games at all, and must be obtained by getting it at those particular events or trading with someone who did get one from the same. There are other means for Event Pokémon to be distributed, too, such as the Pokémon Bank Celebi and the Black/White launch Victini, and it doesn't have to be restricted to these legendaries: other Pokémon with certain special characteristics are often distributed. Japan and Korea get most of these distributions, too. In any case, I would recommend checking Bulbanews (http://bulbanews.bulbagarden.net/wiki/Front_page) or Serebii (http://www.serebii.net/) regularly for details on these events.
+Evolution: When a Pokémon meets certain conditions - usually reaching a certain level, though the methods vary - the Pokémon will evolve. This is usually accompanied by stat boosts, a better set of moves to learn, and so on. The exact conditions for evolution for every Pokémon can be seen in the Pokémon Evolutions section.
+Experience Points (EXP.): When a Pokémon defeats another in battle, it will earn EXP. By earning enough EXP., the Pokémon will level up and become stronger.
+Forme (sometimes Form): Some Pokémon have two or more different Formes. The actual purpose of having different Formes can vary. For example, with Pikachu and Venusaur, it is merely a visual thing. However, with Rotom, Giratina, Aegislash, Arceus, and Mega Pokémon in general, the choice of one Forme over another can have drastic consequences on the flow of battle.
+Gender: Whether a Pokémon is male or female. If it is male, it will have a blue circle with an up-right-pointing arrow in its status screen. If female, it will have a pink circle and a down-pointing cross in its status screen. Pokémon without a gender (or an identified one) will have neither. This usually isn't important, except for breeding and certain Pokémon evolutions.
+Gym Badge: The mark that you have conquered a Pokémon Gym, these will allow you to use certain HMs in the field at times, but otherwise only serve a signatory purpose. Your goal is to collect all eight, one per Gym in the region.
+Hack: A term used to describe the process of cheating; in this context, so someone can get a Pokémon they otherwise cannot get, or at least get a Pokémon they are either too lazy to get or to get accurately. There are various means of doing this; typically, Action Replays and GameSharks in the past. Powersaves and Pokégen are the thing these last few years. See: "legal", "legit", "illegal")
+Happiness: An unseen value measured from 0 to 255, it measures just how happy the Pokémon is. This is unimportant in most instances, except certain evolutions and the power of the moves Return and Frustration.
+Hidden Machine (HM): One a very few special TMs that can teach Pokémon moves that can also be used in the field, like Cut (to cut down trees) and Surf (to cross water). You will need most of these to progress through the game.
+Hit Points (HP): This refers to a Pokémon's health. HP can go down via a number of means, primarily attacks though certain weather conditions and ailments and even the Pokémon's own moves can also cause loss of HP. As HP is above 50%, the HP bar is green; from 50% to 25%, it is yellow; and from 25% down it is red. These colors indicate the danger the Pokémon's health is in: when it hits 0 HP, the Pokémon is fainted and cannot act, except for the use of HMs in the field. Be sure to keep Pokémon healed with Potions and the like!
+HM Slave: A Pokémon owned for the sole purpose - at least for the most part - of using HMs. By distributed all of your needed HM moves to a single Pokémon or two, you greatly diversify the main movepool of the others you do use, but at the same time it costs you in overall team variety. It's a give-and-take system; ideally, you'll learn to distribute HMs throughout the team, but it's more than manageable to slave some Pokémon. Common Pokémon in the past have included Zigzagoon and Bidoof's evolutionary chains.
+Hold Item: An item that is intended to be held by a Pokémon to derive its benefits. See the Items Listings section for more.
+Horde Battle: A type of battle introduced in Pokémon X/Y and furthered in Pokémon OR/AS. This is a battle in which you have one Pokémon out (though can use up to six total), which will be fighting five Pokémon at once! As compensation, these Pokémon usually are lower-leveled than your own or other Pokémon in the area by a significant amount; however, these Pokémon can still be a big threat seeing as how there are five of them and just one of you. Even if they're half-strength, five half-strength hits is still 250% damage. This was expanded on with Pokémon OR/AS where you can fight Horde Battles against Trainers: the logic is applied, but you will obviously get money for winning. The general strategies are to use multi-target moves - Heat Wave, Surf, Earthquake, Discharge, Sludge Wave, etc. - to hit multiple Pokémon and take them out faster. Some Pokémon Trainers will also use Horde Battles for quick EV-training.
+Illegal: A Pokémon who is described as having something it cannot normally, not even under known Nintendo Event distributions, have. This Pokémon has obviously been hacked in some way such that it has things it cannot have, which implies that the original trainer of the Pokémon is a cheater. There are various ways of checking whether a Pokémon is illegal or not via legitimacy checkers: I'd just Google "Pokémon legitimacy checker" if you're unsure.
+Individual Value (IV): Individual Values, or IVs, are like a DNA stat growth mechanic: once you have the IVs set on a Pokémon, they will not be changed. IVs help mostly to determine stat growth and the type of the move Hidden Power. If you see someone on a forum or PSS mentioning something about a "1V", "2V", "3V", "4V", "5V", or "6V" Pokémon, then they refer to the fact that the Pokémon has this-many IVs set at "perfect" values, or 31. (Also-used terms include "#-IV", "perfect IV" (IV at 31) and "perfect Pokémon" (same as 6V). For more data on what these stats do, see IVs - Individual Values.
+Inverse Battle: An Inverse Battle is one in which the resistances and immunities of a Pokémon become its weaknesses, and its weaknesses become its resistances. For example, normally Water is super-effective to Fire, but now it is half-damage; normally Grass is half-damage against Fire, now it is double-damage. Inverse Battles tend to use a Singles Battle format, in which there is one player per side using one Pokémon at a time; tournaments and the like will usually restrict each player to three Pokémon as well.
+Item: An item in the Pokémon series has one of two uses, generally: to be used for an immediate effect, or to be held by a Pokémon for an in-battle use of some sort. See the Items Listings section for more.
+Legal / Legit: A term used to describe a Pokémon that is actually obtainable in the game under whatever circumstances are known about it. In other words, it has an Ability it can have, it has moves it can have, its EVs are not exceeding any limits, it has its proper stats, it was found in a place where it can be found (since the game stores location data)... The list goes on. Legitimacy checkers - typically those in Pokémon Bank - are very thorough in this checking to make sure a Pokémon is actually not hacked: because if it was hacked, then it would likely be different from these in some way. In all honesty, it's better not to cheat, or at least cheat very thoroughly. Using clearly-hacked Pokémon in the VGCs, for example, will boot you from the competition outright.
+Legendary Pokémon: A Pokémon whose in-game plot creates some kind of god-like aura about it. For example, Arceus is known as the Pokémon God because he created the universe, therefore he is a legendary Pokémon; Mew is known as the ancestor of most modern Pokémon and can learn any move desired, and therefore is a legendary Pokémon; Groudon is known as the one who rose the continents, and therefore is a legendary Pokémon. A Legendary Pokémon has a storyline behind it that often is the focus of a single game or of a special Nintendo Event, or sometimes even the subject of one of the Pokémon anime's movies. Many times, these Pokémon are strong -- however, do not confuse the label of Legendary Pokémon with strength or strategic validity! Mew, Celebi, and Jirachi, for example, are considered legendary, but they are not particularly strong: it's the plot behind them driving that "legendary" label. Strategic viability and stats usually determine how good a Pokémon is: I can easily beat Mew, Celebi, and Jirachi with non-legendary Pokémon, moreso than the other legends. Another example is how the site Smogon has classed Blaziken - a starter Pokémon - into its "Ubers" tier, a tier largely populated by legendary Pokémon, whereas those I just named are in the "UU" ("underused") tier, two tiers below.
+Level (Lv.): The general level of a Pokémon's strength. It rises as EXP. is earned, and can range from 1 to 100, where 100 is the strongest that the Pokémon can get.
+Long Range: This is a characteristic of moves that applies only to Triple Battles: it determines whether the move can travel from one Pokémon at the far side to another at the far side. For example, if your Pokémon is at the far left and your move is Long Range, then you can hit the target at the far right (from your viewpoint).
+Mega Evolution: Mega Evolution of Pokémon is a characteristic that came about with the release of Pokémon X/Y in 2013. Essentially, only one Pokémon can Mega Evolve per Trainer per battle. The main intent of Mega Evolution is to take advantage of a Forme of a Pokémon that is stronger in some way and may also have a new Ability and type. Most Pokémon will gain stat boosts when Mega Evolving and Mega Evolution will occur - for all intents and purposes - at the start of the turn, meaning the user can make advantage of all these changes immediately. (Speed changes are the exception: for the turn on which on the Pokémon Mega Evolves, their Speed will be considered the same as pre-Mega.) Mega Evolution can only happen so long as you wield the Mega Bangle and the Pokémon you have on the field is holding its species's Mega Stone. Plus, that Mega Stone cannot be lifted off your Pokémon by your foe, so no need to worry about them stealing it. ;)
+Move: An attack a Pokémon can use. Most moves are used to deal damage in some way, and others can be used to boost stats or affect statuses, and many of both kinds have additional special affects. See the Move List - Battle Details for more regarding their usage in combat, and Move List - Contest Details for their usage in Pokémon Contests.
+Multi Battle: A battle between four people, two per team. Each person sends out one Pokémon, so that each team at the same time will normally have two Pokémon out on the field. Each person contributes two Pokémon to the battle, meaning each team has a total of four Pokémon. If a partner's Pokémon all are lost in a Multi Battle, and the other person still has their other Pokémon, they cannot control two Pokémon at the same time. (The numerical limitations are usually not used in in-game battles.)
+Native: A Pokémon who is born in the region the game covers; in other words, for Pokémon OR/AS, the term would imply that the Pokémon is native to the Hoenn region if born in it. This could also go under the term "Hoenn-born". In X/Y, the term was "Kalos-born". There is a blue pentagon on the Pokémon's status screen that will say it is native to the in-game region and version. (Don't confuse "Hoenn-born" on the message boards with the Hoenn of Ruby/Sapphire: if you want to remove any confusion, say "OR/AS Hoenn-born".) Why is this term in use? This is help to avoid getting a hacked Pokémon. Don't get me wrong, someone can always hack in the "Hoenn-born" pentagon to a Pokémon's data, but it's a nice preventative. It also helps to ensure that you get a Pokémon born in OR/AS because some tournaments require this bit, because hacking is a possibility, though it's not as easy to do with the 3DS as of yet. (Though there are methods.) This is because hacking was very prevalent in 2007~2012 in the DS Pokémon games to obtain otherwise unobtainable Pokémon, but Pokémon Bank has a filter to cut some of those out, though it is imperfect which is why the asking for "Kalos-Native" or "Kalos-Born" Pokémon grew in use, to prevent the getting of a hacked Pokémon, though it is possible to hack it still.
+Nature: A Pokémon's Nature has one singular use, really: to determine stat growth. There are 25 Natures a Pokémon can have, most causing one stat to get a 10% boost and another to lose 10%. For more, see Natures.
+Original Trainer (OT): The original owner of a Pokémon, given by their selected in-game name. This isn't a particularly important characteristic, it's just a quick identifier for who gave you what Pokémon. The main issues someone finds in regards to "Is this my Pokémon or not" involves IDs. (See: "Trainer ID & Secret ID")
+Physical: A move Class that considers the user's Attack and the target's Defense to calculate damage.
+Pokémon (a.k.a. Pocket Monster): Pokémon are the creatures who live alongside us in the world of Pokémon: as partners, as pets, as friends, as family... Pokémon are the central creatures of all Pokémon games. By catching and training Pokémon, a Pokémon Trainer proves their might both in terms of raising Pokémon and in terms of strategy. It is every Pokémon Trainer's goal to one day beat all eight Pokémon Gyms in their region and then beat the Elite Four to become Pokémon League Champion. To do that, you must learn to understand your Pokémon in every possible way.
+Pokémon Gym: There are eight Pokémon Gyms across the region, and in each lies a Gym Leader who will give their Gym Badge to someone who defeats them in battle. Each Pokémon Gym specializes in a certain type of Pokémon, and each will normally have some kind of puzzle to overcome. Your goal is to beat all eight Pokémon Gyms, and then beat the Pokémon League.
+Pokémon League: The pinnacle of Pokémon Trainers -- at least for the in-game storyline. After obtaining all eight Gym Badges, your next task is to come here. Here will lie the Elite Four and the Pokémon League Champion, the top five trainers in the region, who you must beat all in succession; by beating these five, you will prove your might as the best Trainer in the region...
+Pokémon VGCs: The true pinnacle of Pokémon Training, the Pokémon Video Game Championships, or VGCs, are held yearly, first on the regional level and then the national and worldwide levels. Many thousands of Pokémon game players will come to these events, hoping to prove their might against each as the best Trainer in the world. Winning the VGCs is much different and infinitely more difficult and intricate than playing the actual game. Much of the info in this FAQ/Walkthrough was created for the sole purpose of aiding people understand the in-depth mechanics and general strategy of Pokémon just so you may be able to make that leap from battling the AI skillfully to winning championships against other people who know what they are doing. If you want to figure out info on the Pokémon VGCs, times, and locations, please go to the Pokémon official website, http://www.pokemon.com/.
+Power (a.k.a. Base Power or "BP"): This is the Power stat attributed to a move: the higher, the better for the user of the move. In online forums and such, the abbreviation "BP" is often used as a shorthand: this is not to be mixed-up with the currency BP! For the sake of ease, though, you'll never hear me say "BP" in reference to Base Power throughout this guide. Just be careful when elsewhere.
+Power Points (PP): PP are like currency for the use of a Pokémon's moves; think of them as the MP from other RPGs like Final Fantasy. By using a move, you will use up 1 PP for that move, or 2 PP if your foe has the ability Pressure. When a move has 0 PP, it cannot be used; if all of your moves hit 0 PP, then the Pokémon is forced to use the move Struggle, which is relatively weak and damages the user heavily. PP-restoring items are generally in limited quantities throughout the game, almost never being buyable or not in any exorbitant amount, so conservation of these Ethers and Elixirs will be very much important come the latter half of the game.
+Primal Reversion: For all intents and purposes, this is the same as a Mega Evolution: it just has a special plot connection with those that can use Primal Reversion (Kyogre and Groudon) because they are ancient and all that jazz. They nonetheless still need to hold a species-specific item (the Blue and Red Orbs, respectively). Other than these minor differences, the most important is that, while Primal Reversion is like Mega Evolution, Primal Reversions do not count towards the "only one Mega" counter. That is to say, you can use Primal Groudon and Mega Camerupt at the same time. In fact, you can have as many Primals as desired.
+Priority: Each move in the game has its own "Priority" stat. Most moves are of a Priority of 0, but some are below or above that number. Pokémon using higher Priority moves will go first before those using lower Priority moves; if two Pokémon use a move of the same Priority, then their Speed will determine who goes first. The Move Priority section contains more info.
+Rotation Battle: A battle between two people in which only one Pokémon is against another Pokémon: however, there are also two other Pokémon per side other than those fighting that each Trainer can instantly switch to per turn and still have them move. Under typical online battle rules and certain other rulesets, you must use four Pokémon total per side. This isn't the case for most in-game battles, though.
+Same-Type Attack Bonus (STAB): When a Pokémon uses a move that is the same type as itself, the damage of the move is by default increased to 50% higher than normal. For example, Pikachu (an Electric Pokémon) using the move Thunderbolt (an Electric move) will deal 50% extra damage.
+Shiny: A Pokémon is Shiny if it just outright looks different from how it normally does. For example, Gyarados is blue but Shiny Gyarados is red; Sceptile is green but Shiny Sceptile is cyan; Kyogre is blue but Shiny Kyogre is pink. Shininess is exceedingly rare, usually a 1 in 4,096 chance in these games and it was 1 in 8,192 before the release of Pokémon X/Y in 2013. (There are exceptions.)
+Shiny-Locked: By definition as under HG/SS standards (2010), any Pokémon in the game can be Shiny and generally all have an equal chance of being Shiny except in set situations. This has changed slightly with a set few Pokémon (since Black/White in 2011) so that these Pokémon cannot be Shiny without actually hacking the game. There are certain Pokémon cannot ever be legitmately Shiny, in other words. These Pokémon will have a Shiny sprite coded into the game, though, which means hackers can find these sprites; they are left there as placeholders such that, if the Shiny-locking process actually failed, the game wouldn't glitch up on the off-chance you did get that Pokémon to be Shiny. (Though it won't fail, trust me.) The list of Shiny-Locked Pokémon is as follows: Celebi, Arceus, Victini, Reshiram (see below note!), Zekrom (see below note!), Keldeo, Meloetta, Xerneas, Yveltal, Zygarde, Diancie, Hoopa, and Volcanion. That's not to say a Shiny will not be removed from this list. Until a few months ago, Jirachi was also Shiny-Locked; however, Game Freak gave out Shiny Jirachis in Japan, which made Shiny Jirachi legal again, so long as it was from X/Y. But, for all in-game purposes, unless the encounter was made possible by Game Freak through a download event of some sort that allows you somewhere else in the game, you will not be able to find these Pokémon as Shiny at all.
+Further Note on Shiny-Locking
+Shiny Locking, in and of itself, is a practice that begin most noticeably with Pokémon X/Y (though it initiated in B/W), in which the Pokémon therein could not be Shiny at all if Legendary: not just those already named, but also, for example, Moltres, Zapdos, and Articuno. This practice has been confirmed to have not continued in Pokémon OR/AS, and has even been stopped on Pokémon normally not able to be Shiny before, such as Zekrom and Reshiram. Thus, for example, Reshiram and Zekrom cannot be Shiny on Pokémon Black/White 1/2, but can through OR/AS's Mirage Spots!! Therefore, if you get a Shiny Reshiram or Shiny Zekrom without the blue pentagon (which denotes a Pokémon born Pokémon X, Y, Omega Ruby, or Alpha Sapphire), it's been hacked in some way.
+Single Battle: A battle between two people in which each only has one Pokémon out at a time. Under typical online battle rules and certain other rulesets, you must use three Pokémon total per side. This isn't the case for most in-game battles, though.
+Special: A move Class that considers the user's Sp. Atk. and the target's Sp. Def. to calculate damage in most cases. The exceptions to this rule include various fixed-damage moves, Psyshock, and Psystrike, which will use the target's Defense.
+Special Attack (Sp. Atk.): Special Attack is one of the stats a Pokémon can have. Special Attack will affect the damage dealt by certain moves: that is, special moves. Special moves are those that are designated as such by the game: you can use the Move List - Battle Details section to check whether a move is Physical, Special, or Status in Class. Special moves will use the user's Sp. Atk. and the target's Sp. Def. in most cases to calculate damage.
+Special Defense (Sp. Def.): Special Defense is one of the stats a Pokémon can have. Special Defense will affect the damage dealt by certain moves: that is, special moves. Special moves are those that are designated as such by the game: you can use the Move List section to check whether a move is Physical, Special, or Status in Class. Special moves will use the user's Sp. Atk. and the target's Sp. Def. in most cases to calculate damage.
+Speed (sometimes Spd or Spe): The Speed stat is, in its own way, the most relevant stat to competitive battling. Speed determines turn order in a very simple fashion: whoever has higher Speed goes first, and, if there is a tie in Speed, the two Pokémon tied will have equal chances of moving first. For example, a Pokémon with 210 Speed will almost always move before a Pokémon with 200 Speed; if two Pokémon have 200 Speed, then they are 50% likely to move first. However, this assumes that they are using moves of the same Priority. (See: "Priority")
+Status (1): A move Class that does not deal direct damage. It instead says that the move will do something else, based on the move itself.
+Status (2): Refers to a status condition that often inhibits the afflicted Pokémon; also known as an ailment. You should see the Status Ailments list for full details.
+Switching In: The act of choosing to switch out a Pokémon currently out with a different one in your party.
+Team Aqua & Team Magma: The main antagonist teams in the Hoenn region. Team Aqua seeks Kyogre, the legendary Pokémon of the sea, so that they can flood the world; and Team Magma seeks Groudon, the legendary Pokémon whose rose the continents, so that they can dry up the world. You will constantly battle these teams as you go throughout the game: you will mostly fight Team Aqua in Alpha Sapphire and Team Magma in Omega Ruby.
+Technical Machine (TM): An item you can use to teach a Pokémon the move contained on the TM, if the Pokémon can learn it. There are 100 in all, so collect 'em all!
+Tiers: Much like a number of other competitive games, Pokémon are divided into strategic tiers by a number of players. The most common system among Pokémon players is that set by Smogon (a Pokémon strategy website), which primarily runs out on a six-layer system, per the below. Keep in mind that all but Ubers and PU are based on the usage percentages of the Pokémon in question, and are not a statement as to strategic viability. Personally, some UU/RU Pokémon are actually really good (Porygon-Z comes to mind), but it's ultimately up to you. I honestly wouldn't include this tidbit myself - because the tiers are moreso about usage than strategy - but it's a high determinant for a number of people. Keep in mind that this bit is only up-to-date as of December 2014 and the tiers are likely to change in number, contents, or even name as time goes on.
+Ubers: The top tier of the Pokémon system, often containing legendaries and a few others.
+OU (Overused): Pokémon that are used a lot in the Pokémon metagame. Often very viable in strategy battles, but tend to use "cookie-cutter" strategies.
+UU (Underused): UU Pokémon are not used a lot in the competitive metagame, but still can be very good if the team works well with it.
+RU (Rarely Used): RU Pokémon are not used much, often due to a single detrimental stat (i.e. very low Speed) or extreme fragility in combination with a poor moveset. That's not to say they're not viable (again, usage percentages), but most are the kind you want to stay away from in the general metagame.
+NU (Never Used): NU Pokémon are used very infrequently, usually because of a combination of poor stats in certain areas (such as being both fragile and slow) or a very poor movepool. Many can serve niche purposes, however.
+PU: There's no official name for PU, but it's likely a wordplay on "pee-yew". PU Pokémon are the absolutely least used of all Pokémon (except non-fully-evolved Pokémon in most instances), often because of their extreme lack of strategic value that has its roots in a number of sources, particularly having a widespread set of counters in combination with poor stats to counteract these.
+Trainer ID & Secret ID: If you check any Pokémon you yourself caught or check your Trainer Card, you'll notice that you have an ID. Everyone has an ID number attached to them, and there are 65536 possible numbers (00000 - 65535). There is also a hidden or "secret" ID you cannot see. It is also randomized, is unlikely to be the same as your seen Trainer ID, and also ranges from 00000 to 65535. The use of two IDs helps to ward off hackers; it also helps to ensure that the odds of any two players getting the same two IDs (both Trainer and Secret) is 1 in 4,294,967,296 (one in about 4 (American) billion chances). The uses of IDs are mostly in terms of breeding and EXP. growth. When breeding Pokémon whose two IDs (both Trainer and Secret) differ, you are more likely to get Eggs; when using a Pokémon of a different ID than yourself, you get more EXP. Those are the main things.
+Triple Battle: A battle between two people in which each has three Pokémon out at the same time. Under typical online battle rules and certain other rulesets, you must use six Pokémon total per side. This isn't the case for most in-game battles, though.
+Type: Every move in the game will have a type attached to it, and every Pokémon will have one or two types given to it simultaneously. Types are like elements in Pokémon: they determine what is super-effective or resistant to what. For example, you can see Fire moves doing lots of damage to Grass Pokémon, right? And also see how the same Fire-type move would likely deal less damage to a Water Pokémon? While not all type-effectiveness relationships are so simple, they are nonetheless important to learn! There are eighteen types in all: Normal, Fire, Water, Grass, Electric, Ground, Bug, Dark, Psychic, Ghost, Flying, Rock, Ice, Dragon, Fighting, Poison, Steel, and Fairy.
+Vitamin: A particular type of used item. "Vitamins" is the general term for the items HP Up, Protein, Iron, Calcium, Zinc, and Carbos, which are items used on Pokémon to raise their EVs. (See: EVs, Effort Values)
+Weather: Weather is a meteorological event that can occur on the battlefield, and has a number of beneficial effects to the point that certain teams as a whole will try to use this to their advantage. For full details on the effects of all weather and weather-like conditions, see the Weather/Field Effects section.
+
+Page 1 of 46Next Page Last Page 
+FAQ Display Options: View as Single Page | Printable Version
+
+GameFaqs.comfacebook.com/GFAQstwitter.com/GameFAQsHelpSitemapAdvertiseChange Colors 
+gamespot.comgiantbomb.commetacritic.comgamerankings.com
+© 2014 CBS Interactive Inc. All rights reserved.Privacy PolicyAd ChoiceTerms of Use

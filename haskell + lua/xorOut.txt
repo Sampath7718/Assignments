@@ -1,0 +1,25 @@
+Script started on Mon 15 Sep 2014 11:11:43 PM EDT
+]0;root@Gatekeeper: /csci/450root@Gatekeeper:/csci/450# ghci
+GHCi, version 7.6.3: http://www.haskell.org/ghc/  : for help
+Loading package ghc-prim ... linking ... done.
+Loading package integer-gmp ... linking ... done.
+Loading package base ... linking ... done.
+[1h=Prelude> ;[K:l hw1
+
+[1l>[1 of 1] Compiling Main             ( hw1.hs, interpreted )
+Ok, modules loaded: Main.
+[1h=*Main> xor[K[K[Ktest_xor
+
+[1l>xor True  True  = False
+Success:  True
+xor True  False = True
+Success:  True
+xor False True  = True
+Success:  True
+xor False False = False
+Success:  True
+=*Main> :e[Kquit
+
+[1l>Leaving GHCi.
+]0;root@Gatekeeper: /csci/450root@Gatekeeper:/csci/450# exit
+Script done on Mon 15 Sep 2014 11:12:43 PM EDT
